@@ -1,0 +1,51 @@
+<Root>
+  <Record>
+    <FirstName>Jana</FirstName>
+    <LastName>Ajglová</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>ajglova@vosplzen.cz</Email>
+    <Department>ředitelka školy</Department>
+  </Record>
+  <Record>
+    <FirstName>Eva</FirstName>
+    <LastName>Blatská</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>blatska@vosplzen.cz</Email>
+    <Department>odborná učitelka ANJ</Department>
+  </Record>
+  <Record>
+    <FirstName>Jana</FirstName>
+    <LastName>Broumská</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>broumska@vosplzen.cz</Email>
+    <Department>odborná učitelka oboru DZT</Department>
+  </Record>
+  <Record>
+    <FirstName>Jiří</FirstName>
+    <LastName>Dvořák</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>dvorak@vosplzen.cz</Email>
+    <Department>vedoucí oboru CER</Department>
+  </Record>
+  <Record>
+    <FirstName>Jan</FirstName>
+    <LastName>Hacker</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>hacker@vosplzen.cz</Email>
+    <Department>ekonomické oddělení</Department>
+  </Record>
+  <Record>
+    <FirstName>Marcela</FirstName>
+    <LastName>Hackerová</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>hackerova@vosplzen.cz</Email>
+    <Department>ekonomické oddělení</Department>
+  </Record>
+  <Record>
+    <FirstName>Věra</FirstName>
+    <LastName>Hodková</LastName>
+    <PhoneNumber>0</PhoneNumber>
+    <Email>hodkova@vosplzen.cz</Email>
+    <Department>studijní oddělení</Department>
+  </Record>
+</Root>

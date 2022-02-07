@@ -1,0 +1,40 @@
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\bin\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\obj\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\bin\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\obj\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\Zaloha\PhoneBook 6 Ok\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\bin\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\obj\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\PhoneBook v4\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Flint\Desktop\Nazrova PhoneBook\pokus 3  Exception\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\bin\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\obj\Debug\PhoneBook.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\obj\Debug\PhoneBook.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - PhoneBook\PhoneBook - verze\opravena\PhoneBook\obj\Debug\PhoneBook.pdb
