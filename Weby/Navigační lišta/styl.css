@@ -1,0 +1,75 @@
+.navigace {
+    background: rgba(0,0,0,0.8);
+    width: 945px;
+    height: 30px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.navigace li {
+    list-style: none;
+    float:left;
+    color: white;
+    display: block;
+    position: relative;
+    width: 200px;              
+    padding: 0px;
+    height: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+.navigace > li:first-child {
+    color:darkkhaki;
+}
+
+/*druha uroven */
+.navigace li ul {
+    display: none;
+    position: absolute;
+    margin-top: 6px;
+    width: 190px;
+    background-color: #536162;
+    padding: 0px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+/*odkrytí*/
+.navigace li:hover ul {
+    display: block;
+    margin-top: 6px;
+    margin-right: -18px;
+}
+
+.navigace > li:hover,
+.navigace > li:active {
+    color: black;
+    background: cornflowerblue;
+}
+
+.navigace li ul li {
+    float: none;
+    position: relative;
+    width: 175px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+.navigace li ul li:hover {
+    background-color: cornflowerblue; 
+    color: black;
+}
+
+.navigace li ul li:nth-child(2n){
+    background-color: #424642;
+    position: relative;
+}
+
+.navigace li ul li:nth-child(2n):hover {
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
