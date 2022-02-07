@@ -1,0 +1,136 @@
+body {
+    min-height: 100vh;   
+    background-image: linear-gradient(to right,  rgb(116, 234, 255),  rgb(125, 212, 228));
+    box-sizing: border-box;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.chatbox {
+    width: 33rem;
+    /* height: 35rem; */
+    border: 0.1rem;
+    background-color: beige;
+    border-radius: 0.4rem;
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.425) ;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-top: 3rem;
+    margin-bottom: 4rem;
+}
+
+.chatbox:hover,
+.chatbox:active {
+    box-shadow: 5px 5px 2px rgba(0, 0, 0, 0.6) ;
+    border: 0.05rem solid rgb(131, 131, 131);;
+
+}
+
+header, main {
+    padding: 1rem;
+}
+
+header {
+    background-color: bisque;
+}
+
+header:hover,
+header:active {
+    background-color: rgb(253, 220, 179);
+
+}
+
+main {
+    background-color: beige;
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    margin-top: -0.5rem;
+    box-shadow: 0px 0px 0px 0.1rem burlywood;
+}
+
+main:hover,
+main:active {
+    background-color: rgb(250, 243, 212);
+}
+
+/* BUTTONS */
+.buttons {
+    min-height: 5.3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons button {
+    margin: 0.6rem;
+    width:  1.5rem;
+    height: 1.5rem;
+    border-radius: 1.5rem;
+}
+
+
+.buttons .color1:hover,
+.buttons .color1:active,
+.buttons .color2:hover,
+.buttons .color2:active,
+.buttons .color3:hover,
+.buttons .color3:active,
+.buttons .color4:hover,
+.buttons .color4:active,
+.buttons .color5:hover,
+.buttons .color5:active
+{
+    width: 2rem;
+    height: 2rem;
+}
+
+.buttons .color1 {
+    background-color: rgb(255, 165, 0);
+}
+
+.buttons .color2 {
+    background: rgb(0, 255, 0);
+}
+
+.buttons .color3 { 
+       background: rgb(0, 204, 255);
+}
+
+.buttons .color4 {
+    background: rgb(238, 130, 238);
+}
+
+.buttons .color5 {
+    background: rgb(212, 64, 64);
+}
+
+
+/* FORM */
+.hex {
+    line-height: 0.5rem;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.hex:last-child{
+    /* color: brown; */
+    letter-spacing: 0.18rem;
+}
+
+.button-box button {
+    padding: 0.3rem;
+    margin: 0.5rem;
+}
+
+.name {
+    margin: 1.2rem 0;
+}
+
+
+
+
+
+
