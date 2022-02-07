@@ -1,0 +1,29 @@
+body {
+    font-size: 2em;
+    color: #000;
+    text-shadow: 2px 1px 4px #000;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+}
+
+#first, #second, #third {
+    border: 5px ridge cornflowerblue;
+}
+
+#first {
+    background: green;
+}
+
+#second {
+    background: red;
+}
+
+#third {
+    background: yellow;
+}
