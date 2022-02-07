@@ -1,0 +1,304 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: url(../images/bg.png);
+    min-height: 100vh;
+    font-family: Verdana, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+
+}
+
+/* ---- index.html ---- */
+
+#index-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100%;
+    width: 100%; 
+    flex: 1;
+    flex-basis: auto;
+    flex-shrink: 0;
+}
+
+#index-container h1 {
+    position: relative;
+    top: 25px;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 35px;
+    color: #07283c;
+}
+
+.nazev-skoly {
+    text-align: center;  
+    padding-bottom: 20px;
+    color: #09324b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+}
+
+td {
+    border: 2px solid #9e0022;
+    border-radius: 3px;
+    padding: 10px 25px;
+    color:  #09324b;
+}
+
+#index-container a:link, 
+#index-container a:visited {
+    position: relative;
+    left: 50%;
+    top: 50px;
+    transform: translate(-50%,100%);
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #14445a;
+    border-radius: 9px;
+    padding: 10px 25px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    float: left;
+    background: #51add8;
+}
+
+#index-container a:hover, 
+#index-container a:active {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,100%);
+    display: block;
+    text-decoration: none;
+    color: #105b88;
+    border: 2px solid #07283c;
+    box-shadow: 1px 1px 1px black;
+    border-radius: 9px;
+    padding: 10px 25px;
+    margin-top: 10px;
+    letter-spacing: 2px;
+    margin: 0 auto;
+    float: left;
+    background: #b2dcf6;
+    transition: background 1.5s;
+}
+
+
+/* ---- ostatní stránky ---- */
+
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100%;
+    width: 100%;
+    background: wheat;
+    padding-bottom: 60px;
+
+}
+
+nav {
+    display: inline-block;
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100%;
+    width: 100%;
+    background: #B85B14;
+    
+}
+
+nav ul {
+    width: 100%;
+    margin: 0px auto;
+}
+
+nav ul li {
+    width: 220px;
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    line-height: 60px;
+    font-size: 20px;
+}
+
+
+nav ul li a:link,
+nav ul li a:visited {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 5px solid transparent;
+    padding-right: 20px;
+
+}
+
+nav ul li a:hover,
+nav ul li a:active {
+    border-bottom: 5px solid #1258DC;
+    border-bottom-right-radius: 10px;
+    transition: border-bottom 0.5s;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    color: #fff;
+    text-shadow: 3px 2px #000;
+    box-shadow: 1px 1px grey;
+}
+
+#foto_cat img {
+   display: block;
+   width: 50%;
+   margin: 0 auto;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   border-radius: 15px;
+   box-shadow: 8px 5px rgba(1,1,1,0.3);
+   border: 7px ridge #B86B14;
+}
+
+#foto_cat img:hover,
+#foto_cat img:active {
+    box-shadow: 8px 5px rgba(1,1,1,0.8);
+    border: 8px ridge#e89230;
+}
+
+#foto_dog img {
+    display: block;
+    width: 35%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 8px 5px rgba(1,1,1,0.3);
+    border: 7px ridge #B86B14;
+}
+
+
+#foto_dog img:hover,
+#foto_dog img:active {
+    box-shadow: 8px 5px rgba(1,1,1,0.8);
+    border: 8px ridge#e89230;
+}
+
+
+#foto_scalar img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 8px 5px rgba(1,1,1,0.3);
+    border: 7px ridge #B86B14;
+ }
+ 
+ #foto_scalar img:hover,
+ #foto_scalar img:active {
+     box-shadow: 8px 5px rgba(1,1,1,0.8);
+     border: 8px ridge#e89230;
+ }
+
+ #foto_korela img {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+    box-shadow: 8px 5px rgba(1,1,1,0.3);
+    border: 7px ridge #B86B14;
+ }
+ 
+ #foto_korela img:hover,
+ #foto_korela img:active {
+     box-shadow: 8px 5px rgba(1,1,1,0.8);
+     border: 8px ridge#e89230;
+ }
+
+main h1 {
+    text-align: center;
+    color: #7b290e;
+    text-shadow: 1px 1px black;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+main h2 {
+   color: #993312;
+   padding-left: 35px;
+   padding-top: 30px;
+}
+
+main h3 {
+   color: #993312;
+   padding-left: 35px;
+   padding-top: 15px;
+}
+
+main p {
+    padding: 0px 35px;
+    text-align: justify;
+}
+
+.odrazky li {
+    margin: 0px 35px;
+    text-align: justify;
+}
+
+.odsazeni {
+    margin-left: 35px;
+    
+}
+
+
+/* --- patička --- */
+
+.footer-index {
+    flex-basis: auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+   
+
+}
+
+
+footer {
+    flex-basis: auto;
+    flex-grow: 0;
+    flex-shrink: 0;
+
+}
+
+footer p {
+    background-color: #B86B14;
+    text-align: center;
+    line-height: 50px;
+    color: whitesmoke;
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+/* --- vypnout floatování --- */
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
