@@ -1,0 +1,13 @@
+1) ošetřit smazání políčka pro zobrazování čísel - při vkládání nového čísla smazat defaultní nulu
+
+2) desetinná čárka - aby se v čísle vyskytla pouze jednou a ne na začátku
+
+3) s výše uvedeným souvisí, aby se zobrazovala desetinná čísla (0,1 atd)
+
+4) refresh symbolu správného znaménka u stisknuté operace
+
+5) tlačítko Zpět - smaže čísla od konce, musí se zastavit na prvním v řadě, nesmí jít do záporných hodnot
+
+6) řetězení operací za sebou s mezivýsledky
+
+7) dělení nulou

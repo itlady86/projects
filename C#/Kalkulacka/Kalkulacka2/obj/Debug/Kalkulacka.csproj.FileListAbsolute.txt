@@ -1,0 +1,64 @@
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka4\Kalkulacka\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka5\Kalkulacka\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka6\Kalkulacka\obj\Debug\Kalkulacka.pdb
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\obj\Debug\Kalkulacka.exe
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\bin\Debug\Kalkulacka.exe
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\bin\Debug\Kalkulacka.pdb
+J:\AIK\Prográmko 2\Ukol - Kalkulacka\Kalkulacka - almost\Kalkulacka\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Kalkulacka10\Kalkulacka\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\new\obj\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\bin\Debug\Kalkulacka.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\bin\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\bin\Debug\Kalkulacka.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\obj\Debug\Kalkulacka.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\obj\Debug\Kalkulacka.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\obj\Debug\Kalkulacka.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\obj\Debug\Kalkulacka.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kalkulacka\Final\Kalkulacka2\obj\Debug\Kalkulacka.pdb
