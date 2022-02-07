@@ -1,0 +1,72 @@
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no1\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\Sibenice_no2\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no4\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no5\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no6\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no7\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no8\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no9\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\odevzdano_oprava_1_12\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no12x\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Sibenice\no13\Sibenice_no1\obj\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\bin\Debug\Sibenice_no1.exe.config
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\bin\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\bin\Debug\Sibenice_no1.pdb
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\obj\Debug\Sibenice_no1.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\obj\Debug\Sibenice_no1.exe
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Sibenice\oprava_24_1\Sibenice_no1\obj\Debug\Sibenice_no1.pdb

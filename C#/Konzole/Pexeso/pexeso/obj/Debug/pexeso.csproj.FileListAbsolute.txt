@@ -1,0 +1,114 @@
+F:\Zaklady_programovani\7_11\pexeso\pexeso\bin\Debug\pexeso.exe.config
+F:\Zaklady_programovani\7_11\pexeso\pexeso\bin\Debug\pexeso.exe
+F:\Zaklady_programovani\7_11\pexeso\pexeso\bin\Debug\pexeso.pdb
+F:\Zaklady_programovani\7_11\pexeso\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+F:\Zaklady_programovani\7_11\pexeso\pexeso\obj\Debug\pexeso.exe
+F:\Zaklady_programovani\7_11\pexeso\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no1\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no3\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no4\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no5\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no6\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no7\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no8\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no9\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no10\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no11\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no12\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no13\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no14\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no15\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no16\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no17\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.pdb
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.exe.config
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.exe
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\bin\Debug\pexeso.pdb
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.exe
+E:\--- VOSPLZEN\AIK1\AIK1 ZO\Zaklady_programovani\DU\Pexeso\no18\pexeso\obj\Debug\pexeso.pdb

@@ -1,0 +1,12 @@
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\obj\Debug\statistika.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\bin\Debug\statistika.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\bin\Debug\statistika.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\bin\Debug\statistika.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\obj\Debug\statistika.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika\statistika\obj\Debug\statistika.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\obj\Debug\statistika.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\obj\Debug\statistika.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\obj\Debug\statistika.pdb
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\bin\Debug\statistika.exe.config
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\bin\Debug\statistika.exe
+E:\--- VOSPLZEN\Zaklady_programovani\DU\Statistika\1pokus\statistika - kopie\statistika\bin\Debug\statistika.pdb
