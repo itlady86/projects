@@ -1,0 +1,45 @@
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\bin\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\bin\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\Kulecnik\obj\Debug\Kulecnik.About.resources
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.About.resources
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.exe
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\bin\Debug\Kulecnik.exe.config
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\bin\Debug\Kulecnik.exe
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\bin\Debug\Kulecnik.pdb
+C:\Users\Flint\Desktop\Nazrova_Kulecnik_v1\Kulecnik\obj\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\bin\Debug\Kulecnik.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\bin\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\bin\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.About.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\Kulecnik - verze\Kulecnik\obj\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\bin\Debug\Kulecnik.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\bin\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\bin\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.About.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\zaloha\posledniOprava2\Kulecnik\obj\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\bin\Debug\Kulecnik.exe.config
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\bin\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\bin\Debug\Kulecnik.pdb
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.csprojResolveAssemblyReference.cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.About.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.MainForm.resources
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.csproj.GenerateResource.Cache
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.exe
+E:\--- VOSPLZEN\AIK2\Prográmko 2\Ukol - Kulecnik\odevzdat\dalsiOprava\Kulecnik\obj\Debug\Kulecnik.pdb

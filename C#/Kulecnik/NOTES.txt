@@ -1,0 +1,30 @@
+v.1 
+Hlavní MainForm
+design
+okno About
+
+v.2
+třída Kulicka
+
+v.3
+generování kuliček
+
+v.4
+menuItem checked ?
+?speed
+move ??
+
+v.5
+generuje se daný počet kuliček, ale nehýbou se
+přidáno počítadlo
+
+v.6
+barva pozadí
+barvy kuliček - černobílé
+odstíny red?
+
+v.7
+barvy kuliček
+barvy pozadí
+zbývá ošetřit pohyb a barvy pro každou kuličku zvlášt
+
