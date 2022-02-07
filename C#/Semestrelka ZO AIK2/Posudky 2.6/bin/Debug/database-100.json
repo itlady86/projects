@@ -1,0 +1,165 @@
+[
+  {
+    "Posudek": {
+      "CisloP": "1/2021",
+      "Information": {
+        "Specifikace": "test",
+        "Jmeno": "Jan Novák",
+        "CTS": "KRPP-2154-4/TČ-2021-BHP",
+        "DatumOpatreni": "1.1.2021"
+      },
+      "Category": [
+        {
+          "Stopa": "počítač"
+        },
+        {
+          "Stopa": "pevný disk"
+        },
+        {
+          "Stopa": "flash disk"
+        }
+      ],
+      "Item": [
+        {
+          "Nazev": "stolní počítač HP",
+          "Data": {
+            "sit": "1",
+            "typDisku": "SSD",
+            "zajisteni": "pytel",
+            "prislusenstvi": "zadne",
+            "pocetDisku": "1",
+            "hw": "fean",
+            "OS": "live",
+            "poskozeni": "false",
+            "ucet": "live, bez hesla",
+            "time": "ok",
+            "pocetPartition": "2"
+          }
+        },
+        {
+          "Nazev": "externí disk 1TB",
+          "Data": {
+            "sit": null,
+            "typDisku": null,
+            "zajisteni": "orgatech",
+            "prislusenstvi": "USB kabel",
+            "pocetDisku": null,
+            "hw": null,
+            "OS": null,
+            "poskozeni": null,
+            "ucet": null,
+            "time": null,
+            "pocetPartition": null
+          }
+        },
+        {
+          "Nazev": "flash disk Verbatim, 8GB",
+          "Data": {
+            "sit": null,
+            "typDisku": null,
+            "zajisteni": "orgatech",
+            "prislusenstvi": null,
+            "pocetDisku": null,
+            "hw": null,
+            "OS": null,
+            "poskozeni": null,
+            "ucet": null,
+            "time": null,
+            "pocetPartition": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Posudek": {
+      "CisloP": "2/2021",
+      "Information": {
+        "Specifikace": "test",
+        "Jmeno": "Petr Kučera",
+        "CTS": "KRPA-54789-41/TČ-2021-BD",
+        "DatumOpatreni": "5.8.2021"
+      },
+      "Category": [
+        {
+          "Stopa": "flash disk"
+        }
+      ],
+      "Item": [
+        {
+          "Nazev": "flash disk Kingston",
+          "Data": {
+            "sit": null,
+            "typDisku": null,
+            "zajisteni": "orgatech",
+            "prislusenstvi": null,
+            "pocetDisku": null,
+            "hw": null,
+            "OS": null,
+            "poskozeni": null,
+            "ucet": null,
+            "time": null,
+            "pocetPartition": null
+          }
+        }
+      ]
+    }
+  },
+  {
+    "Posudek": {
+      "CisloP": "3/2021",
+      "Information": {
+        "Specifikace": "podvod",
+        "Jmeno": "Michal",
+        "CTS": "KRPA",
+        "DatumOpatreni": "02.01.2022"
+      },
+      "Category": null,
+      "Item": null
+    }
+  },
+  {
+    "Posudek": {
+      "CisloP": "26/2022",
+      "Information": {
+        "Specifikace": "konzole PSP",
+        "Jmeno": "Hromádka",
+        "CTS": "KRPV",
+        "DatumOpatreni": "05.01.2022"
+      },
+      "Category": [
+        {
+          "Stopa": "herní konzole"
+        }
+      ],
+      "Item": [
+        {
+          "Nazev": "PSP 3000",
+          "Data": null
+        }
+      ]
+    }
+  },
+  {
+    "Posudek": {
+      "CisloP": "30/2022",
+      "Information": {
+        "Specifikace": "Pirát",
+        "Jmeno": "Jan Homola",
+        "CTS": "KRPT",
+        "DatumOpatreni": "07.01.2022"
+      },
+      "Category": [
+        {
+          "Stopa": "pevný disk"
+        }
+      ],
+      "Item": [
+        {
+          "Nazev": "HDD",
+          "Data": null
+        }
+      ]
+    }
+  }
+]
